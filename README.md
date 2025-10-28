@@ -2,8 +2,6 @@
 
 A sophisticated desktop application for optimizing power plant placement across Isfahan province using advanced algorithms and real geographical data.
 
-![GUI Screenshot](https://via.placeholder.com/800x400/4682B4/FFFFFF?text=PowerGrid+Optimizer+Interface)
-
 ## 🚀 Features
 
 - **80+ Cities Database**: Comprehensive coverage of Isfahan province with real coordinates
